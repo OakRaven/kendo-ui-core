@@ -47,7 +47,7 @@ event).
 ## Mobile Widget Directives
 
 All directives may be used as elements or as attributes. If the directive is used as an element name, it **will be replaced** with a standard HTML
-element once the directive is compiled. Each mobile widget features an AngularJS in the [Kendo UI demos web site](http://demos.telerik.com/kendo-ui/).
+element once the directive is compiled. Each mobile widget features an AngularJS example in the [Kendo UI demos web site](http://demos.telerik.com/kendo-ui/).
 
 ### ActionSheet
 
